@@ -31,7 +31,7 @@ This is a simple web-based Ticketing System built with Flask. It allows users to
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ticketing-system.git
+   git clone https://github.com/DaveZBorja/Ticketing-system-for-ICT.git
    cd ticketing-system
    ```
 
@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Instructions:
 
-- Replace `https://github.com/yourusername/ticketing-system.git` with your actual GitHub repository URL.
+- Replace `https://github.com/DaveZBorja/Ticketing-system-for-ICT.git` with your actual GitHub repository URL.
 - Update any specific configurations or instructions if needed.
 - Customize sections like **Contributing** and **License** as per your project requirements.
 
